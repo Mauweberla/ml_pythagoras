@@ -95,7 +95,7 @@ Created by @Mauweberla
 
 ## 10. Acknowledgements
 
-Teacher: @MaritaGeorganta
+Teacher: @Maritaganta
 
 Software III – Robotic Fabrication SeminarMRAC01 – IAAC
 
