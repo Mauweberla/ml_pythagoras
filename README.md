@@ -89,6 +89,16 @@ python src/train_model.py        # Trains the model and evaluates it
 
 Make sure you have activated your virtual environment before running the scripts.
 
+## 9. Author
+
+Created by @Mauweberla
+
+## 10. Acknowledgements
+
+Teacher: @MaritaGeorganta
+
+Software III – Robotic Fabrication SeminarMRAC01 – IAAC
+
 
 
 
